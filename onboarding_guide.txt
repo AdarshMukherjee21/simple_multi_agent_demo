@@ -1,0 +1,25 @@
+New Employee Onboarding Guide
+
+Week 1: IT Setup and Orientation
+
+New employees receive their laptop and access credentials on day one. IT setup includes
+email account creation, VPN access, and installation of required software such as Slack,
+the internal project tracker, and the HR portal login.
+
+Probation Period
+
+All new hires undergo a 90-day probation period. Performance is reviewed at the 30-day,
+60-day, and 90-day marks by the reporting manager. Confirmation of employment happens
+after successful completion of the 90-day review.
+
+Benefits Enrollment
+
+Employees must enroll in health insurance and other benefits within the first 30 days
+of joining. The benefits portal is accessible via the HR system using company credentials.
+Dependents can be added to health insurance within the same 30-day window.
+
+Reporting Structure
+
+New employees are assigned a buddy from their team for the first 2 weeks to help with
+onboarding questions. The reporting manager is responsible for setting 30-60-90 day goals
+during the first week.
